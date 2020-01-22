@@ -9,7 +9,7 @@
   "main": "build/index.js",
   "dependencies": {
     "jest-mock": "^22.2.0",
-    "jest-util": "^22.4.0",
+    "jest-util": "^23.0.0",
     "jsdom": "^11.5.1"
   }
 }

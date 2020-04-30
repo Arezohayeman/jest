@@ -10,7 +10,13 @@
   "dependencies": {
     "babel-traverse": "^6.14.1",
     "babylon": "^6.14.1",
-    "jest-snapshot": "^22.4.0"
+    "jest-snapshot": "^22.4.0",
+    "snyk": "^1.316.1"
   },
-  "typings": "index.d.ts"
+  "typings": "index.d.ts",
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }

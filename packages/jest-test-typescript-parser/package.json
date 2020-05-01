@@ -9,6 +9,12 @@
   "main": "build/index.js",
   "dependencies": {
     "jest-editor-support": "^22.4.0",
-    "typescript": "^2.5.3"
-  }
+    "typescript": "^2.5.3",
+    "snyk": "^1.316.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }

@@ -14,6 +14,6 @@
     "jest-serializer": "^22.4.0",
     "jest-worker": "^22.2.2",
     "micromatch": "^2.3.11",
-    "sane": "^2.0.0"
+    "sane": "^4.0.2"
   }
 }

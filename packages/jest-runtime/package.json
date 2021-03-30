@@ -9,8 +9,8 @@
   "main": "build/index.js",
   "dependencies": {
     "babel-core": "^6.0.0",
-    "babel-jest": "^22.4.0",
-    "babel-plugin-istanbul": "^4.1.5",
+    "babel-jest": "^25.1.0",
+    "babel-plugin-istanbul": "^6.0.0",
     "chalk": "^2.0.1",
     "convert-source-map": "^1.4.0",
     "exit": "^0.1.2",

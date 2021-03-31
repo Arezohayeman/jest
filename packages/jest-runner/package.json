@@ -15,7 +15,7 @@
     "jest-jasmine2": "^22.4.0",
     "jest-leak-detector": "^22.4.0",
     "jest-message-util": "^22.4.0",
-    "jest-runtime": "^22.4.0",
+    "jest-runtime": "^24.3.0",
     "jest-util": "^22.4.0",
     "jest-worker": "^22.2.2",
     "throat": "^4.0.0"

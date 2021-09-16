@@ -9,11 +9,11 @@
   "main": "build/index.js",
   "dependencies": {
     "chalk": "^2.0.1",
-    "expect": "^22.4.0",
-    "jest-diff": "^22.4.0",
-    "jest-matcher-utils": "^22.4.0",
+    "expect": "^25.0.0",
+    "jest-diff": "^25.0.0",
+    "jest-matcher-utils": "^25.0.0",
     "jest-message-util": "^22.4.0",
-    "jest-snapshot": "^22.4.0"
+    "jest-snapshot": "^25.0.0"
   },
   "devDependencies": {
     "jest-runtime": "^22.4.0"

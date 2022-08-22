@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@snyk/protect@^1.990.0":
+  version "1.990.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.990.0.tgz#cf79f8fde4e166667135bcfc05c977b61fdbda7e"
+  integrity sha512-YmuBFhNpgX5kmSz/WE/lyX4j5jXqEKMydKco0+DxDhCpw8me8p6JBpWl9Y+LhzVECD9NnAqTKc5mp42Px4TJjw==
+
 ansi-regex@^2.0.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-2.1.1.tgz#c3b33ab5ee360d86e0e628f0468ae7ef27d654df"
